@@ -1,0 +1,43 @@
+.dash1{
+    border:2px solid black;
+    width: 400px;
+    height: 600px;
+    margin-left: 40px;
+
+  
+}
+
+.dash2{
+    border: black solid 2px;
+    width: 1000px;
+
+}
+
+.dashPrime{
+    margin-top: 140px;
+    display: flex;
+    
+}
+
+.name{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    
+}
+
+
+.phone{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.imei{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.mail{
+    text-align: center;
+    padding-bottom: 50px;
+}
